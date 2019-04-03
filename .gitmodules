@@ -1,0 +1,6 @@
+[submodule "P2P-Distributed-Index"]
+	path = P2P-Distributed-Index
+	url = https://github.com/ruturajvy/P2P-Distributed-Index
+[submodule "P2MP-File-Transfer"]
+	path = P2MP-File-Transfer
+	url = https://github.com/ruturajvy/P2MP-File-Transfer
